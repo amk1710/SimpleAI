@@ -113,7 +113,6 @@ public class Fish_Tree : MonoBehaviour {
 
     private Condition ChaseAction()
     {
-        Debug.Log("chaseaction");
         if (_foundFood == null) return Condition.Failed;
         else
         {
@@ -145,7 +144,6 @@ public class Fish_Tree : MonoBehaviour {
 
     private Condition Turn()
     {
-        Debug.Log("turn");
         if (!_renderer.isVisible)
         {
             //pos final menos inicial

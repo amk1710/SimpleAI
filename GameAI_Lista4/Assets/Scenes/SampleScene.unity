@@ -521,6 +521,12 @@ Prefab:
       propertyPath: m_Name
       value: Fish (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 212457240808677520, guid: 39f2328bc431d6740a5cb071977516e8,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: c8ab9ccebba91924d9f1320056b09b69,
+        type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 39f2328bc431d6740a5cb071977516e8, type: 2}
   m_IsPrefabParent: 0
@@ -929,7 +935,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300080, guid: b4131b6bc5f8c6a48b7f5653ba806469, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8636c9cf4d5fbeb458c3b95287bb7139, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1122,7 +1128,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300080, guid: b4131b6bc5f8c6a48b7f5653ba806469, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8636c9cf4d5fbeb458c3b95287bb7139, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1320,7 +1326,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300080, guid: b4131b6bc5f8c6a48b7f5653ba806469, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8636c9cf4d5fbeb458c3b95287bb7139, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1645,7 +1651,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300080, guid: b4131b6bc5f8c6a48b7f5653ba806469, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8636c9cf4d5fbeb458c3b95287bb7139, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1703,6 +1709,12 @@ Prefab:
       propertyPath: m_Name
       value: Fish (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 212457240808677520, guid: 39f2328bc431d6740a5cb071977516e8,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: c8ab9ccebba91924d9f1320056b09b69,
+        type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 39f2328bc431d6740a5cb071977516e8, type: 2}
   m_IsPrefabParent: 0
@@ -1889,7 +1901,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300080, guid: b4131b6bc5f8c6a48b7f5653ba806469, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8636c9cf4d5fbeb458c3b95287bb7139, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
